@@ -1,15 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?p2f version='1.0.0'?>
 <p2f version='1.0.0'>
-  <ius size='3'>
-    <iu id='org.jetbrains.kotlin.feature.feature.group' name='Kotlin' version='0.8.19.v20191112-1519'>
+  <ius size='2'>
+    <iu id='org.jetbrains.kotlin.feature.feature.group' name='Kotlin' version='1.5.31.v20211018-0606'>
       <repositories size='1'>
-        <repository location='https://dl.bintray.com/jetbrains/kotlin/eclipse-plugin/0.8.19'/>
-      </repositories>
-    </iu>
-    <iu id='org.jetbrains.kotlin.gradle.feature.feature.group' name='Kotlin-gradle' version='0.8.19.v20191112-1134'>
-      <repositories size='1'>
-        <repository location='https://dl.bintray.com/jetbrains/kotlin/eclipse-plugin/0.8.19'/>
+        <repository location='https://download.jetbrains.com/kotlin/eclipse-plugin/1.5.31/'/>
       </repositories>
     </iu>
     <iu id='org.eclipse.cbi.targetplatform-feature.feature.group' name='Target Platform Definition DSL and Generator' version='3.0.0.202005061025'>
