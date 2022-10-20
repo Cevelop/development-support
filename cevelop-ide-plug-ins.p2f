@@ -2,9 +2,9 @@
 <?p2f version='1.0.0'?>
 <p2f version='1.0.0'>
   <ius size='2'>
-    <iu id='org.jetbrains.kotlin.feature.feature.group' name='Kotlin' version='1.5.31.v20211018-0606'>
+    <iu id='org.jetbrains.kotlin.feature.feature.group' name='Kotlin' version='1.5.31'>
       <repositories size='1'>
-        <repository location='https://download.jetbrains.com/kotlin/eclipse-plugin/1.5.31/'/>
+        <repository location='https://s3.eu-central-1.amazonaws.com/github.bvfalcon/kotlin-eclipse-repo/'/>
       </repositories>
     </iu>
     <iu id='org.eclipse.cbi.targetplatform-feature.feature.group' name='Target Platform Definition DSL and Generator' version='3.0.0.202005061025'>
